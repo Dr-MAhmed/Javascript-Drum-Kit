@@ -1,5 +1,6 @@
 // JavaScript Drum Kit App
-
+let ahmed = 'name';
+console.log(ahmed);
 {
 	const playingClass = 'playing',
 		crashRide = document.getElementById('crash-ride'),
